@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631230160395",
+    "firebase_url": "https://auth-962cd.firebaseio.com",
+    "project_id": "auth-962cd",
+    "storage_bucket": "auth-962cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631230160395:android:526965603e71086f",
+        "android_client_info": {
+          "package_name": "netroxtech.com.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631230160395-0f4urscd4lu8pa53cemg7f131uncslv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ7Tc7GKwBjS-xPMsn3GLUUdYTqG0FvRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
